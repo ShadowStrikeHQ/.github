@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img src="./profile/?.png" alt="?">
+  <img src="profile/?.png" alt="?">
 </h1>
