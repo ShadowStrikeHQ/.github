@@ -1,5 +1,7 @@
 ---
 
-<center>**In Development**</center>
+<p align="center">
+  <strong>In Development</strong>
+</p>
 
 ---
