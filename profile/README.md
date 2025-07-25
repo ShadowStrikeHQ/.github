@@ -1,6 +1,6 @@
 ---
 
-# <h1 align="center"> 👁️‍🗨️ ShadowStrike OS // 🔒 AUTHORIZED ACCESS ONLY 🔒 </h1>
+<img src="ShadowStrike.jpeg" alt="?" width="150">
 
 ---
 
