@@ -1,7 +1,3 @@
 ---
-
-<p align="center">
-  <strong>AUTHORIZED ACCESS ONLY</strong>
-</p>
-
+> ### **⚠️ AUTHORIZED ACCESS ONLY ⚠️**
 ---
