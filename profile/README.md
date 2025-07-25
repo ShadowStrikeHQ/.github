@@ -1,6 +1,6 @@
 ---
 
-<img src="ShadowStrike.jpeg" alt="?" width="150">
+<img src="ShadowStrike.jpeg" alt="?">
 
 ---
 
