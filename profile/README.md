@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <strong>AUTHROIZED ACCESS ONLY</strong>
+  <strong>AUTHORIZED ACCESS ONLY</strong>
 </p>
 
 ---
